@@ -1,0 +1,22 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "fuatsengul:leaflet-routing-machine"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/treyyoder_leafnav.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_leafnav.js",
+      "sourceMap": "os/packages/treyyoder_leafnav.js.map"
+    }
+  ]
+}

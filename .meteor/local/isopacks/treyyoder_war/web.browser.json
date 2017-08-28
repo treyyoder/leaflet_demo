@@ -1,0 +1,62 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "treyyoder:leafnav"
+    }
+  ],
+  "resources": [
+    {
+      "type": "asset",
+      "file": "web.browser/packages/treyyoder_war/images/missle.png",
+      "length": 9453,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_war/images/missle.png",
+      "path": "images/missle.png"
+    },
+    {
+      "type": "asset",
+      "file": "web.browser/packages/treyyoder_war/images/nuclearExplosion.png",
+      "length": 17079,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_war/images/nuclearExplosion.png",
+      "path": "images/nuclearExplosion.png"
+    },
+    {
+      "type": "asset",
+      "file": "web.browser/packages/treyyoder_war/images/nkflag.png",
+      "length": 7864,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_war/images/nkflag.png",
+      "path": "images/nkflag.png"
+    },
+    {
+      "type": "asset",
+      "file": "web.browser/packages/treyyoder_war/images/usflag.png",
+      "length": 282082,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_war/images/usflag.png",
+      "path": "images/usflag.png"
+    },
+    {
+      "type": "asset",
+      "file": "web.browser/packages/treyyoder_war/images/srflag.png",
+      "length": 7030,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_war/images/srflag.png",
+      "path": "images/srflag.png"
+    },
+    {
+      "type": "prelink",
+      "file": "web.browser/packages/treyyoder_war.js",
+      "length": 16300,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_war.js",
+      "sourceMap": "web.browser/packages/treyyoder_war.js.map"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "treyyoder:leafnav"
+    }
+  ],
+  "resources": [
+    {
+      "type": "asset",
+      "file": "os/packages/treyyoder_atc/images/plane.png",
+      "length": 7386,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_atc/images/plane.png",
+      "path": "images/plane.png"
+    },
+    {
+      "type": "prelink",
+      "file": "os/packages/treyyoder_atc.js",
+      "length": 19157,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_atc.js",
+      "sourceMap": "os/packages/treyyoder_atc.js.map"
+    }
+  ]
+}

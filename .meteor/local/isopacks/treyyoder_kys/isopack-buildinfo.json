@@ -1,0 +1,40 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/package.js": "ef6499ed653ce28e29f29f764587781485422d13",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/images/star.png": "f5b5a7888d8c1f45d850a90c580f12428df369be",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/kys.css": "b6f69d5d819e5bc46cca8c497522906e56c8f9eb",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/kys.js": "e28622830449c392a39db25e38f4042b4f68ec2d"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/package.js": "ef6499ed653ce28e29f29f764587781485422d13",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/images/star.png": "f5b5a7888d8c1f45d850a90c580f12428df369be",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/kys.css": "b6f69d5d819e5bc46cca8c497522906e56c8f9eb",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/kys.js": "e28622830449c392a39db25e38f4042b4f68ec2d"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys/package.js": "ef6499ed653ce28e29f29f764587781485422d13"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "treyyoder:kys": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/kys"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    }
+  },
+  "includeCordovaUnibuild": false
+}

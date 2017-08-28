@@ -1,0 +1,39 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [
+    {
+      "name": "state"
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "asset",
+      "file": "os/packages/treyyoder_kys/images/star.png",
+      "length": 59659,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_kys/images/star.png",
+      "path": "images/star.png"
+    },
+    {
+      "type": "asset",
+      "file": "os/packages/treyyoder_kys/kys.css",
+      "length": 67,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_kys/kys.css",
+      "path": "kys.css"
+    },
+    {
+      "type": "prelink",
+      "file": "os/packages/treyyoder_kys.js",
+      "length": 19018,
+      "offset": 0,
+      "servePath": "/packages/treyyoder_kys.js",
+      "sourceMap": "os/packages/treyyoder_kys.js.map"
+    }
+  ]
+}

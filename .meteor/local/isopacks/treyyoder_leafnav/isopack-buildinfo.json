@@ -1,0 +1,40 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/leafnav.js": "a92cfab04fe8597c32e94f4dd67b5151765059b1",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/Marker.NavAids.js": "db34b34cf381d2142cb72fc79ba3a4e6fcd8c893"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "treyyoder:leafnav": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    },
+    "fuatsengul:leaflet-routing-machine": {
+      "kind": "versioned",
+      "version": "1.0.12"
+    }
+  },
+  "includeCordovaUnibuild": false
+}

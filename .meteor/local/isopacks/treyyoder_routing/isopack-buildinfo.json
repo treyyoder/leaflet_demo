@@ -1,0 +1,44 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/package.js": "d9bd372d6342d541c4403499366bea77f4651446",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/images/car.png": "ed5dd261de4c0418ea07ce036c73dc2dca9fafc4",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/routing.js": "ad041d23e20383edaceb44675524de49a9fe82c4"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/package.js": "d9bd372d6342d541c4403499366bea77f4651446",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/images/car.png": "ed5dd261de4c0418ea07ce036c73dc2dca9fafc4",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/routing.js": "ad041d23e20383edaceb44675524de49a9fe82c4"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing/package.js": "d9bd372d6342d541c4403499366bea77f4651446"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "treyyoder:routing": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/routing"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    },
+    "treyyoder:leafnav": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav"
+    }
+  },
+  "includeCordovaUnibuild": false
+}

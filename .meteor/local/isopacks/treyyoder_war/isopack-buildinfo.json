@@ -1,0 +1,52 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/package.js": "e7d2982e8d7d3c8f114d591e0082cb99722cb09e",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/missle.png": "7b0579d27c91c3b18766d34c533dac8ad9e2ab2c",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/nuclearExplosion.png": "ef35f506f2dbe45a12369180c671bb9d828d036e",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/nkflag.png": "d5ff81c4dde16175ce69a93c220fe49397970ec1",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/usflag.png": "5224b583494f18e20bc6ca7dcede15ea957005b5",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/srflag.png": "190ee7faa3398e0b6fe079941d5d1ef0b845e3b5",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/war.js": "ec67767647b3c7cb108d92cd38b8eaa5fc60e125"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/package.js": "e7d2982e8d7d3c8f114d591e0082cb99722cb09e",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/missle.png": "7b0579d27c91c3b18766d34c533dac8ad9e2ab2c",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/nuclearExplosion.png": "ef35f506f2dbe45a12369180c671bb9d828d036e",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/nkflag.png": "d5ff81c4dde16175ce69a93c220fe49397970ec1",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/usflag.png": "5224b583494f18e20bc6ca7dcede15ea957005b5",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/images/srflag.png": "190ee7faa3398e0b6fe079941d5d1ef0b845e3b5",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/war.js": "ec67767647b3c7cb108d92cd38b8eaa5fc60e125"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war/package.js": "e7d2982e8d7d3c8f114d591e0082cb99722cb09e"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "treyyoder:war": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/war"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    },
+    "treyyoder:leafnav": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav"
+    }
+  },
+  "includeCordovaUnibuild": false
+}

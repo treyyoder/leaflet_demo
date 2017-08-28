@@ -1,0 +1,44 @@
+{
+  "builtBy": "meteor/16",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/package.js": "acd1e20a436f7ffff60a40245750cb6f678f6bb8",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/images/plane.png": "3f791b77de97636da8563ecfc621743858a62955",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/atc.js": "3ce541ffb3a9b5fcae625fc73fec88a84c2611c4"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/package.js": "acd1e20a436f7ffff60a40245750cb6f678f6bb8",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav/package.js": "bc8614782f72c2ea91cb8ac04f026b81b1b9b137",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/images/plane.png": "3f791b77de97636da8563ecfc621743858a62955",
+        "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/atc.js": "3ce541ffb3a9b5fcae625fc73fec88a84c2611c4"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc/package.js": "acd1e20a436f7ffff60a40245750cb6f678f6bb8"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "treyyoder:atc": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/atc"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.6"
+    },
+    "treyyoder:leafnav": {
+      "kind": "local",
+      "sourceRoot": "/C/Users/jyoder/WorkSpace/leaflet_demo/packages/leafnav"
+    }
+  },
+  "includeCordovaUnibuild": false
+}
